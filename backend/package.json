@@ -1,0 +1,92 @@
+{
+  
+  "dependencies": {
+  
+    
+  "@huggingface/inference": "^3.3.6",
+  
+    
+  "axios": "^1.7.9",
+  
+    
+  "bcrypt": "^5.1.1",
+  
+    
+  "bcryptjs": "^3.0.2",
+  
+    
+  "connect-mongo": "^5.1.0",
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "dotenv": "^16.4.7",
+  
+    
+  "express": "^4.21.2",
+  
+    
+  "express-session": "^1.18.1",
+  
+    
+  "facebook-sdk": "^0.3.3",
+  
+    
+  "fb": "^2.0.0",
+  
+    
+  "instagram-web-api": "^2.2.2",
+  
+    
+  "jsonwebtoken": "^9.0.2",
+  
+    
+  "mongoose": "^8.10.1",
+  
+    
+  "node-linkedin": "^0.5.6",
+  
+    
+  "nodemon": "^3.1.9",
+  
+    
+  "passport": "^0.7.0",
+  
+    
+  "passport-facebook": "^3.0.0",
+  
+    
+  "passport-instagram": "^1.0.0",
+  
+    
+  "passport-twitter": "^1.0.4",
+  
+    
+  "twitter-api-sdk": "^1.2.1",
+  
+    
+  "twitter-api-v2": "^1.20.1"
+  
+  },
+  
+  "name": "backend",
+  
+  "type": "module",
+  
+  "scripts": {
+  
+    
+  "dev": "vite",
+  
+    
+  "build": "vite build",
+  
+    
+  "lint": "eslint .",
+  
+    
+  "preview": "vite preview"
+  
+  }
+}
