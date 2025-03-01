@@ -2,7 +2,7 @@
 backend/.env
 
 # Node.js dependencies
-backend/node_modules/
+backendnode_modules/
 
 # Logs
 logs/
